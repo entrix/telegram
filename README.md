@@ -1,4 +1,4 @@
-# Explore telegram API
+# Explore Telegram API
 
 This repository created for small applications which use telegram Bot API.
 
